@@ -33,7 +33,7 @@ Sobre **O Roleta de Filmes** é um projeto universitário para a matéria de PDS
 * senha (std::string): Senha do usuário
 
 Métodos:
-*void votarFilme(Filme &filme, float nota): Vota em um filme
+* void votarFilme(Filme &filme, float nota): Vota em um filme
 
 ### **Classe Administrador**
 Atributos:
