@@ -65,11 +65,12 @@ Métodos:
 Aqui está como usar o **Roleta de Filmes**
 
 ### **Criando um usuário**
-
+![UsuarioExemplo](https://github.com/roberth10000/TP-Final-PDS2-2024/blob/e6781fc638fad2a569f9fcea4cc6857610197410/ImagensExemplo/UsuarioExemplo.png)
 ### **Adicionando um filme**
-
+![FilmeExemplo](https://github.com/roberth10000/TP-Final-PDS2-2024/blob/e6781fc638fad2a569f9fcea4cc6857610197410/ImagensExemplo/FilmeExemplo.png)
 ### **Criando uma playlist**
-
+![PlaylistExemplo](https://github.com/roberth10000/TP-Final-PDS2-2024/blob/main/ImagensExemplo/PlaylistExemplo.png)
 ### **Mostrando os filmes do usuário**
-
+![MostrarFilmeExemplo](https://github.com/roberth10000/TP-Final-PDS2-2024/blob/main/ImagensExemplo/MostrarFilmeExemplo.png)
 ### **Usando a roleta de filmes**
+![RoletaExemplo](https://github.com/roberth10000/TP-Final-PDS2-2024/blob/main/ImagensExemplo/RoletaExemplo.png)
