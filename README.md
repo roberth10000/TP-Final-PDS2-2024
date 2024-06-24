@@ -70,6 +70,6 @@ Aqui está como usar o **Roleta de Filmes**
 
 ### **Criando uma playlist**
 
-### **Adicionando uma playlist a um usuário**
+### **Mostrando os filmes do usuário**
 
 ### **Usando a roleta de filmes**
